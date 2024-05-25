@@ -11,6 +11,11 @@
 # production
 /build
 
+# Archivos de configuración del editor
+/.idea
+*.iml
+.vscode/
+
 # misc
 .DS_Store
 .env.local
